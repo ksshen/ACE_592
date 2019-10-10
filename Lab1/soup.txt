@@ -1,0 +1,26 @@
+Name,Price,Locals,URL,ID
+Trilocale viale cortina d ampezzo, Cortina d'Ampezzo, Roma,€ 615.000,3,https://www.immobiliare.it/annunci/74228446/,74228446
+Villa unifamiliare via Fiera di Primiero, Cortina d'Ampezzo, Roma,€ 1.400.000,5+,https://www.immobiliare.it/annunci/70329720/,70329720
+Bilocale via del corallo, Piazza Navona, Roma,€ 950.000,2,https://www.immobiliare.it/annunci/74019296/,74019296
+Stabile / Palazzo in Affitto, Roma,PREZZO SU RICHIESTA,5+,https://www.immobiliare.it/annunci/71545920/,71545920
+Appartamento via Cortina D'Ampezzo, Cortina d'Ampezzo, Roma,€ 650.000,5,https://www.immobiliare.it/annunci/74049734/,74049734
+Villa unifamiliare via Leonida Rech, Talenti - Monte Sacro, Roma,€ 440.000,5+,https://www.immobiliare.it/annunci/71386748/,71386748
+Attico via Cortina d'Ampezzo, Cortina d'Ampezzo, Roma,€ 1.250.000,5+,https://www.immobiliare.it/annunci/72845324/,72845324
+Appartamento via della Mendola, Cortina d'Ampezzo, Roma,€ 750.000,5+,https://www.immobiliare.it/annunci/71545810/,71545810
+Appartamento via Flaminia Vecchia, Fleming, Roma,€ 580.000,5,https://www.immobiliare.it/annunci/71286168/,71286168
+Appartamento via Vallombrosa, Cortina d'Ampezzo, Roma,€ 670.000,5,https://www.immobiliare.it/annunci/73491944/,73491944
+Quadrilocale via Enrico Accinni, Piazzale degli Eroi, Roma,€ 950.000,4,https://www.immobiliare.it/annunci/74636334/,74636334
+Appartamento via della Mendola, Cortina d'Ampezzo, Roma,€ 850.000,5+,https://www.immobiliare.it/annunci/72869360/,72869360
+Trilocale via castellini, Parioli, Roma,€ 570.000,3,https://www.immobiliare.it/annunci/75698686/,75698686
+Quadrilocale via di Villa Emiliani, Parioli, Roma,€ 1.500.000,4,https://www.immobiliare.it/annunci/74772790/,74772790
+Attico via Amsterdam, Torrino, Roma,€ 1.790.000,5+,https://www.immobiliare.it/annunci/73000212/,73000212
+Trilocale piazza di Sant'Apollonia, Trastevere, Roma,€ 460.000,3,https://www.immobiliare.it/annunci/74744956/,74744956
+Trilocale via colli della farnesina, Camilluccia - Farnesina, Roma,€ 490.000,3,https://www.immobiliare.it/annunci/74251512/,74251512
+Trilocale via Parabiago, Grottarossa - Saxa Rubra, Roma,€ 198.000,3,https://www.immobiliare.it/annunci/70205656/,70205656
+Attico via vallombrosa 100, Cortina d'Ampezzo, Roma,€ 1.100.000,5+,https://www.immobiliare.it/annunci/69586178/,69586178
+Appartamento via Roccaraso, Cortina d'Ampezzo, Roma,PREZZO SU RICHIESTA,5,https://www.immobiliare.it/annunci/71980316/,71980316
+Quadrilocale via Casale Ghella, Grottarossa - Saxa Rubra, Roma,PREZZO SU RICHIESTA,4,https://www.immobiliare.it/annunci/72162446/,72162446
+Azienda agricola in Vendita, Castiglione del Lago,€ 1.350.000,5+,https://www.immobiliare.it/annunci/74377546/,74377546
+Trilocale Borgo Pio, Borgo, Roma,€ 665.000,3,https://www.immobiliare.it/annunci/75660978/,75660978
+Attico via Cortina d'Ampezzo, Cortina d'Ampezzo, Roma,€ 1.580.000,5+,https://www.immobiliare.it/annunci/64329606/,64329606
+Attico via di tor fiorenza, Africano - Villa Chigi, Roma,€ 1.350.000,5+,https://www.immobiliare.it/annunci/66329289/,66329289
