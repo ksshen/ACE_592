@@ -1,0 +1,69 @@
+Lab 3
+Q1: How much did a parallel code speed up a sequential code?
+Sp = Ts / Tp
+
+p = # of processors
+Ts = execution time of the sequential code
+Tp = execution time of the parallel code with p processors
+
+Answer: Sp =95.347 /27.677=3.44
+
+
+Lab 4
+Question 1
+We have used the "foreach" library to perform parallelization in this excerise, are there any other libraries that can do the same thing? List at least 3 other different parallelization libraries.
+
+Answer:
+OpenMP, POSIX Threads, Message Passing Interface
+
+Question 2
+Pick one of the parallelization libraries and give it a try in this excerise by only using 4 cores.
+
+
+
+Lab 5
+
+Question:
+Try to tune the model's parameters. If you increase the eta or the maximum depth, what will happen? Can you explain your reasoning? Are there other ways to improve the model's performance?
+
+
+Answer:
+The larger the eta, the faster the training. This is the effect of the change of step size. This directly affects the speed of the fitting.
+The higher the value of possible depth of a tree, the longer time for the model to respond and the model is more specific and more likely to overfit.
+To increase the performance, I would guess use some kind of cross validation might improve the results.
+
+
+Lab 6
+
+Question 1
+Which the four methods has the best distribution? Why? What assumptions of OLS and DS are violated in the naive models?
+
+Answer:
+The overspecified Double Selection has the best distribution. The estimation is more close to the underlying values in the data generating process.
+
+Question 2
+Why does the overspecified OLS have a lower type 1 error rate?
+
+Answer:
+The overspecification decrease the variance and thus have a lower type 1 error rate.
+
+Question 3
+The type 2 error rate is calculated incorrectly. Describe how would you correct it?
+
+Answer:
+The type 2 error could be found by calculating p greater than 0.05.
+
+Question 4
+Create a correlation between the Treatment and the independent variables. How does this change the OLS and DS coefficents? What other methods can be used to deal with this specification?
+
+Answer:
+This decrease the coefficients of naive OLS and increase the estimation in overspecified OLS. Double selection models are stable.
+Other methods need to either structual the error or find some other possible IV.
+
+
+Question 5
+Change the model or data generating process so that an assumption of double selection is violated. How does this affect the ability of the model to draw valid inference?
+
+
+Answer:
+If the model could not include enough parameters to control for confounding parameters, then the estimation and the inference would be biased and invalid.
